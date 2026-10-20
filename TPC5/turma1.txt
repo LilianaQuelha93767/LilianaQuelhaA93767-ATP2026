@@ -1,0 +1,6 @@
+Nome;ID;NotaTPC;NotaProjeto;NotaTeste
+José Afonso;a98765;17.0;12.0;15.0
+Maria Conceição;a98345;16.0;15.0;15.0
+Joana Oliveira;a98547;17.0;17.0;19.0
+Carlos Pires;a98758;15.0;13.0;14.0
+Ana Moreira;a97452;16.0;16.0;16.0
